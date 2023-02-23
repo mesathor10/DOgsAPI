@@ -2,6 +2,7 @@ html, body {
     height: 100%;
     width: 100%;
     justify-content: center;
+    background-color: rgb(167, 229, 247);
   }
 
 #dogImage{
@@ -9,12 +10,14 @@ html, body {
 }
 #dogButton{
     text-align: center;
+    width: 130px;
+    height: 50px;
     color: rgb(250, 250, 250);
     background-color: red;
     padding: 10px;
-    margin: 10px 550px;
+    margin: 10px 50%;
     font-style: italic;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: xx-large;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
 }
   
